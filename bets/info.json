@@ -1,0 +1,11 @@
+{
+    "author": ["bill88t#4044"],
+    "name": "banwheelbets",
+    "description": "Bet on which color the banwheel will stop on",
+    "tags": [
+        "economy", "fun"
+    ],
+    "hidden": true,
+    "disabled": true,
+    "end_user_data_statement": "This cog stores store data about users for at most a week."
+}
