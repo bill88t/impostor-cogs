@@ -1,0 +1,11 @@
+{
+    "author": ["bill88t#4044"],
+    "name": "Fish",
+    "short": "Fish",
+    "description": "Fish",
+    "tags": [
+        "economy", "fun"
+    ],
+    "install_msg": "bro, this cog is still not done..",
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+}
